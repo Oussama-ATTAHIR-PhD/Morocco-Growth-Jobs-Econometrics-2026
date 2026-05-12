@@ -41,9 +41,7 @@ Does economic growth in Morocco effectively translate into job creation?
 
 Main equation:
 
-\[
-\Delta \ln L = \alpha + \beta \Delta \ln Y
-\]
+ΔlnL=α+βΔlnY
 
 ### Main Findings
 
@@ -190,9 +188,7 @@ La croissance économique marocaine se traduit-elle réellement par des créatio
 
 Équation principale :
 
-\[
-\Delta \ln L = \alpha + \beta \Delta \ln Y
-\]
+ΔlnL=α+βΔlnY
 
 ### Principaux Résultats
 
